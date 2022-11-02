@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\Projects\\mvc-dotnet\\Views\\Movies\\Random.cshtml",
+      "TargetPath": "Views\\Movies\\Random.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\Projects\\mvc-dotnet\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
